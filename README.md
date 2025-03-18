@@ -90,7 +90,7 @@ Contribuições são bem-vindas! Para contribuir, siga os seguintes passos:
 
 ## 📅 Atualizações
 
-**Data**: 16 de Março de 2025
+**Data**: 18 de Março de 2025
 
 - Criação e execução dos 20 casos de teste para a API Serverest.
 - Identificação de bugs críticos na API.
