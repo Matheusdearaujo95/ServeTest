@@ -1,4 +1,4 @@
-# Serverest - Teste de API e Análise de Qualidade
+# Serverest 2 - Teste de API e Análise de Qualidade
 
 Este repositório contém o trabalho realizado para testar a API **Serverest**. O foco foi verificar a funcionalidade da API e identificar possíveis bugs, garantindo que as funcionalidades atendam aos requisitos definidos e estejam funcionando corretamente.
 
